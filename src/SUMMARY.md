@@ -19,7 +19,7 @@
 		- [Verzovací systémy](./subjects/unix/verzovaci-systemy/verzovaci-systemy.md)
 		- [Verzovací systém git](./subjects/unix/git/git.md)
 	- [Programovací jazyk Rust](./subjects/rust/subject.md)
-		- [Článek 1](./subjects/rust/article1.md)
+	- 	- []
 	- [Programovací jazyk Python](./subjects/python/subject.md)
 		- [Bool výrazy](./subjects/python/bool_vyrazy.md)
 		- [Datové typy](./subjects/python/datove_typy.md)
